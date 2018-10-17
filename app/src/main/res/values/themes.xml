@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="first_theme" parent="Theme.AppCompat.Light">
+        <item name="pageBackground">@style/page_background_first</item>
+        <item name="buttonTextColor">@style/button_first</item>
+    </style>
+
+    <style name="second_theme" parent="Theme.AppCompat.Light">
+        <item name="pageBackground">@style/page_background_second</item>
+        <item name="buttonTextColor">@style/button_second</item>
+    </style>
+
+    <style name="third_theme" parent="Theme.AppCompat.Light">
+        <item name="pageBackground">@style/page_background_third</item>
+        <item name="buttonTextColor">@style/button_third</item>
+    </style>
+</resources>
